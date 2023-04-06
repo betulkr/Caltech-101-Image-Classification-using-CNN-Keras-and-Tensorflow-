@@ -1,7 +1,5 @@
 # Caltech-101-Image-Classification-using-CNN-Keras-and-Tensorflow
 
-Contributed by: Fatma Betül KARA ARDAÇ
-
 
 ## Image Classification using CNN, Keras and Tensorflow in Python
 This project is being done as a competition by many students and the best accuracy achieved is 70%. We were able to achieve 63% accuracy for 101 classes. This falls in the top 5 for the competition. For 10 classes we were able to achieve an accuracy of 95%
@@ -28,3 +26,5 @@ We have used classic Neural Networks(CNN) to perform image classification. Using
 
 ## Conclusion
 Relu performs better for image classification as compared to tanh activation function the convolutional network gives an accuracy of 95% for the 10 classes with maximum number of images While training the images using CNN the number of training samples in important. For example, if there are less samples to train on then the model won't perform accurately.
+
+Contributed by: Fatma Betül KARA ARDAÇ
